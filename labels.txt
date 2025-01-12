@@ -1,0 +1,3 @@
+adenocarcinoma
+benign class
+squmous_cell_carcinoma
